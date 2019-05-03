@@ -1,0 +1,10 @@
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\bin\Debug\krestikinoliki.exe.config
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\bin\Debug\krestikinoliki.exe
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\bin\Debug\krestikinoliki.pdb
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\obj\Debug\krestikinoliki.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\obj\Debug\krestikinoliki.Form1.resources
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\obj\Debug\krestikinoliki.Properties.Resources.resources
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\obj\Debug\krestikinoliki.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\obj\Debug\krestikinoliki.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\obj\Debug\krestikinoliki.exe
+C:\Users\Maxim\source\repos\krestikinoliki\krestikinoliki\obj\Debug\krestikinoliki.pdb
